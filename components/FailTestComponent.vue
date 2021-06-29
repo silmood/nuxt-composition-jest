@@ -11,7 +11,6 @@ export default defineComponent({
     const state = {
       username: 'test',
     }
-
     return { state }
   },
 })
